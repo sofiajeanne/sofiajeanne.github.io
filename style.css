@@ -1,0 +1,36 @@
+html {
+  height: 100%;
+}
+
+body {
+  width: 500px;
+  height: 100%;
+  margin: auto;
+  box-shadow: 0 0 15px teal;
+  border: 1px dotted purple;
+  padding: 10px;
+}
+
+h1 {
+  margin: 0;
+}
+
+
+a {
+  color: steelblue;
+  text-decoration: none;
+  padding: 0px 5px 0px 0px;
+  transition: 1s;
+}
+
+a:hover {
+  color: powderblue;
+  text-decoration: underline;
+}
+
+a:focus {
+  font-size: 1.2em;
+}
+
+
+
