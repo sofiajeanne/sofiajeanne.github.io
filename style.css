@@ -3,18 +3,19 @@ html {
 }
 
 body {
-  width: 500px;
-  height: 100%;
-  margin: auto;
-  box-shadow: 0 0 15px teal;
-  border: 1px dotted purple;
-  padding: 10px;
+  font: normal 16px Georgia, serif;
 }
 
 h1 {
   margin: 0;
+  font: bold 24px;
 }
 
+p{
+  text-align: center;
+  margin: auto;
+  width: 50%;
+}
 
 a {
   color: steelblue;
@@ -32,5 +33,7 @@ a:focus {
   font-size: 1.2em;
 }
 
-
-
+#colorstrip{
+    height: 0px;
+    border-bottom:solid 1000px lightyellow;
+}​
