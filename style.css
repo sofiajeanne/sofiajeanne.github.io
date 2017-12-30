@@ -14,6 +14,10 @@ h1 {
   text-align: center
 }
 
+h3 {
+  text-align: center
+}
+
 p{
   text-align: center;
   margin: auto;
@@ -42,6 +46,12 @@ header {
 }
 
 #poem {
+  background-color: #FFF8C6;
+  padding-top: 15px;
+  padding-bottom: 15px; 
+}
+
+#clue {
   background-color: #FFF8C6;
   padding-top: 15px;
   padding-bottom: 15px; 
